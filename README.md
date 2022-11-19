@@ -1,31 +1,21 @@
-# oms
+# OMS (Odd Media Server)
 
-Odd Media Server is not only a modern Live Streaming Server, but also a WebRTC SFU.
+This is a distributed Live Streaming Server, WebRTC SFU and WebSocket IM Server.
 
-## Platform
+## Platforms
 
 | Windows | Linux | Mac OS |
 | :--- | :--- | :--- |
 | √ | √ | √ |
 
-## Protocol
+## Solutions
 
-| Protocol | RTMP | HTTP/WS-FLV | HTTP/WS-FMP4 | HLS (MPEG-TS) | HLS-2nd (CMAF) | MPEG-DASH (CMAF) | RTSP | WebRTC |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Input | √ |  |  |  |  |  |  | √ |
-| Output | √ | √ | √ | √ | √ | √ |  | √ |
-
-## Codec
-
-| Protocol | RTMP | HTTP/WS-FLV | HTTP/WS-FMP4 | HLS (MPEG-TS) | HLS-2nd (CMAF) | MPEG-DASH (CMAF) | RTSP | WebRTC |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| AAC | √ | √ | √ | √ | √ | √ |  |  |
-| AVC | √ | √ | √ | √ | √ | √ |  | √ |
-| Opus |  |  |  |  |  |  |  | √ |
-| VP8 |  |  |  |  |  |  |  | √ |
+- [x] [Live Broadcast](https://www.oddcancer.com/solution/live.html)  
+- [x] [WebRTC Conference](https://www.oddcancer.com/solution/rtc/index.html)  
 
 ## Run
 
 ```code
+./start.sh
 nohup ./daemon.sh >/dev/null 2>&1 &
 ```
