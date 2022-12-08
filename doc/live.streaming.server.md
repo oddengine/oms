@@ -32,8 +32,8 @@
 
 ## Roadmap
 
-- [x] v1.4.06 - Fixed parsing aac channel config.  
-- [x] v1.4.31 - Fix rtmp proxy.  
-- [x] v1.4.63 - Fix processing rtmp message with fmt=3.  
-- [ ] Support RTSP input/output.  
-- [ ] Support WebRTC input/output.  
+- [x] v1.4.06 - Fixed parsing AAC channel config.  
+- [x] v1.4.31 - Fix RTMP proxy.  
+- [x] v1.4.63 - Fix processing RTMP message with fmt=3.  
+- [ ] Supports RTSP input/output.  
+- [ ] Supports WebRTC input/output.  
