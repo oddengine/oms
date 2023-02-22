@@ -10,8 +10,10 @@ This is a distributed Live Streaming Server, WebRTC SFU and WebSocket IM Server.
 
 ## Solutions
 
+- [x] [WebRTC Demo](https://www.oddcancer.com/solution/interactive.html)  
 - [x] [Live Broadcast](https://www.oddcancer.com/solution/live.html)  
-- [x] [WebRTC Conference](https://www.oddcancer.com/solution/rtc/index.html)  
+- [x] [Video Conference](https://www.oddcancer.com/solution/conference.html)  
+- [x] [IM](https://www.oddcancer.com/solution/im.html)  
 
 ## Run
 
