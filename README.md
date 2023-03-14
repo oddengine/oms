@@ -10,11 +10,11 @@ This is a distributed Live Streaming Server, WebRTC SFU and WebSocket IM Server.
 
 ## Solutions
 
-- [x] [WebRTC Demo](https://www.oddcancer.com/solution/interactive.html)  
-- [x] [Video Conference](https://www.oddcancer.com/solution/conference.html)  
-- [x] [Live Broadcast](https://www.oddcancer.com/solution/live.html)  
-- [x] [VoD](https://www.oddcancer.com/solution/vod.html)  
-- [x] [IM](https://www.oddcancer.com/solution/im.html)  
+- [x] [WebRTC Demo](https://oddengine.com/solution/interactive.html)  
+- [x] [Video Conference](https://oddengine.com/solution/conference.html)  
+- [x] [Live Broadcast](https://oddengine.com/solution/live.html)  
+- [x] [VoD](https://oddengine.com/solution/vod.html)  
+- [x] [IM](https://oddengine.com/solution/im.html)  
 
 ## Run
 
