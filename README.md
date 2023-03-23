@@ -1,6 +1,6 @@
 # OMS (Odd Media Server)
 
-This is a distributed Live Streaming Server, WebRTC SFU and WebSocket IM Server.
+This is a distributed [Live Streaming Server](https://oddengine.com/product/live.html), [WebRTC SFU](https://oddengine.com/product/rtc.html) and [WebSocket IM Server](https://oddengine.com/product/im.html).
 
 ## Platforms
 
