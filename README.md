@@ -18,6 +18,10 @@ This is a distributed [Live Streaming Server](https://oddengine.com/product/live
 
 ## Run
 
+[Download](https://oddengine.com/download/)
+
+[Free Trial](https://oddengine.com/license/)
+
 ```code
 ./start.sh
 nohup ./daemon.sh >/dev/null 2>&1 &
